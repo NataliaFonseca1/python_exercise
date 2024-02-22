@@ -65,7 +65,7 @@ def main():
     extract_movies(soup)
 
     end_time = time.time()
-    print('Total time taken: ', end_time - start_time)
+    print('Total time taken:    ', end_time - start_time)
 
 
 if __name__ == '__main__':
